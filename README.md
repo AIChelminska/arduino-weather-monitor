@@ -34,7 +34,7 @@ A simple weather station built with Arduino UNO that reads temperature and humid
 
 ## 📐 Circuit Diagram
 
-![Circuit Diagram](circuit.png)
+![Circuit Diagram](assets/circuit.png)
 
 ## 📦 Libraries
 
