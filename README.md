@@ -61,7 +61,7 @@ Install the following libraries via Arduino Library Manager:
 
 ## 🛠️ Simulation
 
-Try it yourself in Wokwi: *[link to your Wokwi project]*
+Try it yourself in Wokwi: https://wokwi.com/projects/461770914765795329
 
 ---
 
